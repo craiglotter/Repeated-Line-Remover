@@ -1,0 +1,22 @@
+Repeated Line Remover
+
+Repeated Line Remover is a small application that quickly removes duplicated lines in a specified text document. For example:
+
+  text line 1
+  text line 1
+  text line 2
+
+will become
+
+  text line 1
+  text line 2
+
+Created by Craig Lotter, December 2005
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2003
+Implements concepts such as threading, file handling and text manipulation.
+Level of Complexity: Simple
